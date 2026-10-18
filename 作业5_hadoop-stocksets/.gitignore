@@ -1,0 +1,6 @@
+# Keep compiled JAR for submission, ignore the rest of Maven target.
+target/*
+!target/*.jar
+.DS_Store
+.idea/
+*.iml
