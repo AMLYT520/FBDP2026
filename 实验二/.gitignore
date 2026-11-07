@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.vscode/
+/input/*.csv
+!/input/train.sample.csv
+/output/
+/target/*
+!/target/hadoop-credit-risk-1.0.0.jar
